@@ -33,10 +33,13 @@ This web application features a user management dashboard with two tabs: User De
    cd user-management-dashboard
 
 2. **install dependencies:**
+    ```bash
          vue create vue-tailwind-dashboard
 
-3. **install tailwind css**
-        npm install -D tailwindcss postcss autoprefixer
+4. **install tailwind css**
+      ```bash
+       npm install -D tailwindcss postcss autoprefixer
         npx tailwindcss init -p
 
-4. **npm run serve**
+   ```bash
+5. **npm run serve**
