@@ -15,14 +15,9 @@ This web application features a user management dashboard with two tabs: User De
   - Create a form with fields for username and password.
   - Implement dummy request handling upon form submission.
 
-- **Dashboard Interface:**
-  - Design a clean and intuitive dashboard layout with two tabs: User Details and Account Creation.
-
 - **Tech Stack:**
-  - Use either React or Vue.js for frontend development (Vue.js is preferred).
-  - Implement styling using CSS/SCSS/SASS or Tailwind CSS (Tailwind CSS is preferred) without relying on any component libraries.
-  - Optional but preferred: Use SSR (Server-Side Rendering) with Next.js or Nuxt.js.
-  - Aim for a high Lighthouse score, striving for a score between 90 and 100 to optimize user experience.
+  - Used Vue.js for frontend development.
+  - Implement styling using Tailwind CSS.
 
 ## Usage
 
